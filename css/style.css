@@ -38,3 +38,8 @@ button {
     padding: .5em 1em;
     text-align: center;
 }
+
+#star{
+width: 300px;
+    height: 300px;
+}
