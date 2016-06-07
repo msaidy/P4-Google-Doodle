@@ -1,7 +1,7 @@
 /* Stage */
 
 #stage {
-    background: ;
+    background: grey ;
     height: 300px;
     width: 600px;
 }
@@ -53,21 +53,21 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-    right: 40px;
+    right: 41px;
 }
 
 #triangle3{
 position: relative;
 width: 100px;
     height: 100px;
-    right: 50px;
+    right: 49px;
 }
 
 #triangle4{
 position: relative;
 width: 100px;
     height: 100px;
-    right: 50px;
+    right: 51px;
 }
 
 #triangle5{
@@ -101,7 +101,7 @@ width: 100px;
     height: 100px;
    right: 196px;
     top: -103px;
-    transform: rotate(180deg)
+    transform: rotate(180deg);
 }
 
 #triangle9{
@@ -126,7 +126,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: -205px;
+   right: -309px;
     top: -208px;
     
 }
@@ -135,7 +135,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: -200px;
+   right: -305px;
     top: -208px;
     
 }
@@ -144,8 +144,118 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: -169px;
+   right: -273px;
     top: -231px;
-    transform: rotate(180deg)
+    transform: rotate(180deg);
+    
+}
+
+#triangle14{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 300px;
+    top: -261px;
+   
+    
+}
+
+#triangle15{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 305px;
+    top: -261px;
+    
+    
+}
+
+#triangle16{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: -210px;
+    top: -365px;
+    
+    
+}
+
+#triangle17{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: -205px;
+    top: -366px;
+     
+    
+}
+
+#triangle18{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: -200px;
+    top: -366px;
+    
+    
+}
+
+#triangle19{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 352px;
+    top: -362px;
+   transform: rotate(88deg);
+    
+}
+
+#triangle20{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 355px;
+    top: -365px;
+    
+    
+}
+
+#triangle21{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 355px;
+    top: -365px;
+    
+    
+}
+
+#triangle22{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 355px;
+    top: -365px;
+    
+    
+}
+
+#triangle23{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 355px;
+    top: -365px;
+    
+    
+}
+
+#triangle24{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: -94px;
+    top: -469px;
+    transform: rotate(deg);
     
 }
