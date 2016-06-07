@@ -53,7 +53,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-    right: 50px;
+    right: 45px;
 }
 
 #triangle3{
@@ -74,7 +74,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-    right: 50px;
+    right: -40px;
 }
 
 #triangle6{
@@ -83,13 +83,59 @@ width: 100px;
     height: 100px;
    left: 250px;
     top: -105px;
-  -webkit-transform: rotate(180deg);
+  
 }
 
 #triangle7{
 position: relative;
 width: 100px;
     height: 100px;
-   right: 325px;
-    top: -135px;
+   right: 273px;
+    top: -129px;
+    
+}
+
+#triangle8{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 304px;
+    top: -105px;
+    transform: rotate(180deg)
+}
+
+#triangle9{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 304px;
+    top: -105px;
+    
+}
+
+#triangle10{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 304px;
+    top: -105px;
+    
+}
+
+#triangle11{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 304px;
+    top: -105px;
+    
+}
+
+#triangle12{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 304px;
+    top: -105px;
+    
 }
