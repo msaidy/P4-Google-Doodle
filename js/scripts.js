@@ -62,7 +62,39 @@
 //var $triangle8 = $('#triangle8');
 //
 //
-//TweenMax.to($triangle8, 1.75, {
+//TweenMax.to($triangle8, 2, {
+//    opacity: 0,
+//    
+//});
+//
+//var $triangle9 = $('#triangle9');
+//
+//
+//TweenMax.to($triangle9, 3, {
+//    opacity: 0,
+//    
+//});
+//
+//var $triangle10 = $('#triangle10');
+//
+//
+//TweenMax.to($triangle10, 4, {
+//    opacity: 0,
+//    
+//});
+//
+//var $triangle11 = $('#triangle11');
+//
+//
+//TweenMax.to($triangle11, 5, {
+//    opacity: 0,
+//    
+//});
+//
+//var $triangle12 = $('#triangle12');
+//
+//
+//TweenMax.to($triangle12, 6, {
 //    opacity: 0,
 //    
 //});

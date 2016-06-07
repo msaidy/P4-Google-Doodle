@@ -1,7 +1,7 @@
 /* Stage */
 
 #stage {
-    background: gray;
+    background: ;
     height: 300px;
     width: 600px;
 }
@@ -45,7 +45,7 @@ position: relative;
 width: 100px;
     height: 100px;
     margin-top: 223px;
-    right:40px;
+    right:38px;
     
 }
 
@@ -53,7 +53,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-    right: 45px;
+    right: 40px;
 }
 
 #triangle3{
@@ -81,17 +81,17 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   left: 250px;
+   left: 360px;
     top: -105px;
-  
+  color: #008744;
 }
 
 #triangle7{
 position: relative;
 width: 100px;
     height: 100px;
-   right: 273px;
-    top: -129px;
+   right: 168px;
+    top: -126.95px;
     
 }
 
@@ -99,8 +99,8 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
-    top: -105px;
+   right: 196px;
+    top: -103px;
     transform: rotate(180deg)
 }
 
@@ -108,8 +108,8 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
-    top: -105px;
+   right: 202px;
+    top: -104px;
     
 }
 
@@ -117,8 +117,8 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
-    top: -105px;
+   right: 207px;
+    top: -103px;
     
 }
 
@@ -126,8 +126,8 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
-    top: -105px;
+   right: -205px;
+    top: -208px;
     
 }
 
@@ -135,7 +135,17 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
-    top: -105px;
+   right: -200px;
+    top: -208px;
+    
+}
+
+#triangle13{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: -169px;
+    top: -231px;
+    transform: rotate(180deg)
     
 }
