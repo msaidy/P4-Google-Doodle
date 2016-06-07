@@ -20,6 +20,7 @@ input {
 }
 
 div {
+    position: relative;
     margin: 3em auto;
     text-align: center;
     width: 50%;
@@ -39,7 +40,56 @@ button {
     text-align: center;
 }
 
-#star{
-width: 300px;
-    height: 300px;
+#triangle1{
+position: relative;
+width: 100px;
+    height: 100px;
+    margin-top: 223px;
+    right:40px;
+    
+}
+
+#triangle2{
+position: relative;
+width: 100px;
+    height: 100px;
+    right: 50px;
+}
+
+#triangle3{
+position: relative;
+width: 100px;
+    height: 100px;
+    right: 50px;
+}
+
+#triangle4{
+position: relative;
+width: 100px;
+    height: 100px;
+    right: 50px;
+}
+
+#triangle5{
+position: relative;
+width: 100px;
+    height: 100px;
+    right: 50px;
+}
+
+#triangle6{
+position: relative;
+width: 100px;
+    height: 100px;
+   left: 250px;
+    top: -105px;
+  -webkit-transform: rotate(180deg);
+}
+
+#triangle7{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 325px;
+    top: -135px;
 }
