@@ -254,6 +254,6 @@ TweenMax.to($triangle31, 5, {
 var $h1 = $('h1');
 
 TweenMax.from($h1, 5, {
-    opacity:0, delay:8
+    opacity:0, delay:5
 
 });
