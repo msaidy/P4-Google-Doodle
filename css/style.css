@@ -163,7 +163,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: 304px;
+   right: 303px;
     top: -261px;
    
     
@@ -283,7 +283,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: -59px;
+   right: -60px;
     top: -625px;
     
     
@@ -366,7 +366,7 @@ position: relative;
 width: 100px;
     height: 100px;
    right: 110px;
-    top: -729px;
+    top: -730px;
 } 
 
 #triangle36{
@@ -391,7 +391,7 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   right: -101px;
+   right: -100px;
     top: -886px;
 } 
 
@@ -417,8 +417,8 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
-   
-    top: -1043px;
+   right: -106px;
+    top: -1041px;
     transform: rotate(180deg)
 } 
 
@@ -426,8 +426,26 @@ width: 100px;
 position: relative;
 width: 100px;
     height: 100px;
+   right: -102px;
+    top: -1040px;
    
-    top: -104px;
+} 
+
+#triangle43{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 52px;
+    top: -1040px;
+   
+} 
+
+#triangle44{
+position: relative;
+width: 100px;
+    height: 100px;
+   right: 158px;
+    top: -1094px;
    
 } 
 
@@ -448,7 +466,7 @@ width: 100px;
 
 h1{
   position:relative;
-  top: 100px;
+  top: 130px;
     left: 10px;
     color: white;
     font-size:123px;
