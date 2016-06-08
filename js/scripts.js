@@ -190,7 +190,7 @@ TweenMax.to($triangle23, 2, {
 var $triangle24 = $('#triangle24');
 
 
-TweenMax.to($triangle24, 2, {
+TweenMax.to($triangle24, 5, {
     opacity: 0,
     
 });
@@ -198,7 +198,7 @@ TweenMax.to($triangle24, 2, {
 var $triangle25 = $('#triangle25');
 
 
-TweenMax.to($triangle25, 1, {
+TweenMax.to($triangle25, 5, {
     opacity: 0,
     
 });
@@ -206,7 +206,7 @@ TweenMax.to($triangle25, 1, {
 var $triangle26 = $('#triangle26');
 
 
-TweenMax.to($triangle26, 1, {
+TweenMax.to($triangle26, 5, {
     opacity: 0,
     
 });
@@ -214,7 +214,7 @@ TweenMax.to($triangle26, 1, {
 var $triangle27 = $('#triangle27');
 
 
-TweenMax.to($triangle27, 1, {
+TweenMax.to($triangle27, 5, {
     opacity: 0,
     
 });
@@ -222,21 +222,21 @@ TweenMax.to($triangle27, 1, {
 var $triangle28 = $('#triangle28');
 
 
-TweenMax.to($triangle28, 1, {
+TweenMax.to($triangle28, 5, {
     opacity: 0,
     
 });
 var $triangle29 = $('#triangle29');
 
 
-TweenMax.to($triangle29, 1, {
+TweenMax.to($triangle29, 5, {
     opacity: 0,
     
 });
 var $triangle30 = $('#triangle30');
 
 
-TweenMax.to($triangle30, 1, {
+TweenMax.to($triangle30, 5, {
     opacity: 0,
     
 });
@@ -244,7 +244,7 @@ TweenMax.to($triangle30, 1, {
 var $triangle31 = $('#triangle31');
 
 
-TweenMax.to($triangle31, 1, {
+TweenMax.to($triangle31, 5, {
     opacity: 0,
     
 });
@@ -254,6 +254,6 @@ TweenMax.to($triangle31, 1, {
 var $h1 = $('h1');
 
 TweenMax.from($h1, 5, {
-    opacity:0, delay:2
+    opacity:0, delay:8
 
 });
