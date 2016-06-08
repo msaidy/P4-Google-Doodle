@@ -345,6 +345,53 @@ h1{
   top: 100px;
     left: 20px;
     font-size:123px;
+    letter-spacing: -13px;
   
 }
 
+@keyframes vcd {
+  from {
+    color: #008744;
+  }
+  to {
+   color: #3B60AC;
+  }
+}
+
+@keyframes vcd2 {
+  from {
+    color: #008744;
+  }
+  to {
+    color: #3B60AC;
+  }
+}
+
+@keyframes vcd3 {
+  from {
+    color: #008744;
+  }
+  to {
+    color: #3B60AC;
+  }
+}
+.V, .C, .D{
+animation-name: vcd;
+  animation-duration: 1s;
+  animation-delay: 3s;
+  animation-iteration-count:infinite;
+}
+
+.C{
+animation-name: vcd2;
+  animation-duration: 1s;
+  animation-delay: 4s;
+  animation-iteration-count:infinite;
+}
+
+.D{
+animation-name: vcd3;
+  animation-duration: 1s;
+  animation-delay: 5s;
+  animation-iteration-count:infinite;
+}
