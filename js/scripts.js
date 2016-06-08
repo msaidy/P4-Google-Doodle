@@ -249,11 +249,91 @@ TweenMax.to($triangle31, 1, {
     
 });
 
+var $triangle32 = $('#triangle32');
 
-////VCD
-//var $h1 = $('h1');
-//
-//TweenMax.from($h1, 3, {
-//    opacity:0, delay:2
-//
-//});
+
+TweenMax.to($triangle32, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle33 = $('#triangle33');
+
+
+TweenMax.to($triangle33, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle34 = $('#triangle34');
+
+
+TweenMax.to($triangle34, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle35 = $('#triangle35');
+
+
+TweenMax.to($triangle35, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle36 = $('#triangle36');
+
+
+TweenMax.to($triangle36, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle37 = $('#triangle37');
+
+
+TweenMax.to($triangle37, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle38 = $('#triangle38');
+
+
+TweenMax.to($triangle38, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle39 = $('#triangle39');
+
+
+TweenMax.to($triangle39, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle40 = $('#triangle40');
+
+
+TweenMax.to($triangle40, 1, {
+   opacity:0, delay:2
+    
+});
+
+var $triangle41 = $('#triangle41');
+
+
+TweenMax.to($triangle41, 1, {
+   opacity:0, delay:2
+    
+});
+
+
+//VCD
+var $h1 = $('h1');
+
+TweenMax.from($h1, 3, {
+    opacity:0, delay:2
+
+});
