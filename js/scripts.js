@@ -253,7 +253,7 @@ TweenMax.to($triangle31, 1, {
 //VCD
 var $h1 = $('h1');
 
-TweenMax.from($h1, 4, {
-    opacity:0, delay:3
+TweenMax.from($h1, 3, {
+    opacity:0, delay:2
 
 });
